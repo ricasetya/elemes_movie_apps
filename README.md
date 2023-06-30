@@ -1,7 +1,7 @@
 # apps location
-  Gunakan Branch Develop
-  build\app\outputs\flutter-apk\app-release.apk
-  (untuk instal kedevice versi android)
+  - Gunakan Branch Develop
+  - build\app\outputs\flutter-apk\app-release.apk
+    (untuk instal kedevice versi android)
 
 # fitur
   - splash screen
