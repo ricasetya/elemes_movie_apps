@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862620613470",
+    "project_id": "elemes-movie",
+    "storage_bucket": "elemes-movie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862620613470:android:b5d3954bd0f62853ab2dcf",
+        "android_client_info": {
+          "package_name": "com.example.elemes_movie_tv_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862620613470-fq5pd50gj0o24pr7k2qitba2fd5u7h9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRaWPF6yyJxpJ57MaUIJ7ostcDGhPw0vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862620613470-fq5pd50gj0o24pr7k2qitba2fd5u7h9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
